@@ -9,7 +9,7 @@
 </div>
 
 
-<pre><h3 class="link-contacto">LINK DE DISCORD:<a href="">CLICK AQUI <br>
+<pre><h3 class="link-contacto">LINK DE DISCORD:<a href="https://discord.gg/6RDPcfH6">CLICK AQUI <br>
 </a>cel: +57 302 2596414
 
 davidmontoya053@gmail.com</h3></pre>
