@@ -23,11 +23,25 @@ a:hover {
 	text-decoration: underline;
 }
 
-body {
-    font-family: 'Noto Sans JP', sans-serif;	
+body {	
 	background:black;
 }
-
+.frase1 {
+	
+	font-size: 5em;
+	text-align: center;
+}
+#imagen-perfil {
+	text-align: center;
+	border: solid;
+	margin-top: 10px;
+	border-radius: 7px;
+	
+}
+.link-contacto {
+	text-align: center;
+	margin-top: 1em;
+}
 .navegacion {
 	background: #FFCD48;
     position: sticky;
@@ -57,7 +71,6 @@ body {
 	display: flex;
 	justify-content: space-between;
 }
-
 
 .contenedor-imagen img {
 	width: 100%;

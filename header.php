@@ -8,7 +8,5 @@
 				<a href="contactame.php">CONTACTAME</a>
 			</div>
 		</nav>
-		<div class="contenedor-imagen">
-			<a href="#"></a>
-		</div>
+		
 	</header>
